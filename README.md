@@ -1,12 +1,21 @@
 Air Monitor – Raspberry Pi Air Quality Dashboard
+
 A complete Raspberry Pi–powered air quality monitor using:
+
 PMSA003I (PM1.0 / PM2.5 / PM10)
+
 AHT20 (Temperature & Humidity)
+
 Flask Web Dashboard
+
 Chart.js Live Graphs
+
 CSV Logging
+
 System Metrics (CPU Temp, WiFi RSSI, Uptime, IP)
+
 Safe Shutdown Button
+
 Built to function as a portable spot-check air quality station, accessible from any device on the same network or hotspot.
 
 
