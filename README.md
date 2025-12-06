@@ -42,7 +42,7 @@ Format includes:
 time_iso, temp_c, temp_f, humidity, pm1, pm25, pm10, aqi_category
 ```
 
-### 🖥 System Status
+###  System Status
 - CPU temperature  
 - WiFi RSSI  
 - Uptime  
