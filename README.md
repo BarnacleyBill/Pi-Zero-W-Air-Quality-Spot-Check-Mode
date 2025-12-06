@@ -48,8 +48,8 @@ time_iso, temp_c, temp_f, humidity, pm1, pm25, pm10, aqi_category
 - Uptime  
 - Local IP Address  
 
-### ⏻ Safe Shutdown Button
-Gracefully powers down the Raspberry Pi via `/shutdown`.
+###  Safe Shutdown Button
+Powers down the Raspberry Pi via `/shutdown`.
 
 ---
 
@@ -181,7 +181,7 @@ enviro ALL=NOPASSWD: /sbin/shutdown
 ---
 
 ##  License
-MIT (or your choice)
+MIT
 
 ---
 
