@@ -53,7 +53,7 @@ Gracefully powers down the Raspberry Pi via `/shutdown`.
 
 ---
 
-## 🛠 Hardware
+##  Hardware
 
 ### Required
 - Raspberry Pi Zero 2 W (recommended) or Pi 3/4  
@@ -171,7 +171,7 @@ enviro ALL=NOPASSWD: /sbin/shutdown
 
 ---
 
-## 🗺 Roadmap
+##  Roadmap
 
 - Add Reboot button  
 - Add VOC/CO2 sensors (SGP40, SCD40)  
