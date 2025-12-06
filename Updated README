@@ -16,7 +16,7 @@ Built to function as a **portable spot-check air quality station**, accessible f
 
 ##  Features
 
-### 📡 Real-time Sensor Readings
+###  Real-time Sensor Readings
 - Temperature (°F / °C)
 - Humidity (%RH)
 - PM1.0 / PM2.5 / PM10
