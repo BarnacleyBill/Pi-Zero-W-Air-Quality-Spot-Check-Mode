@@ -56,7 +56,7 @@ Gracefully powers down the Raspberry Pi via `/shutdown`.
 ##  Hardware
 
 ### Required
-- Raspberry Pi Zero 2 W (recommended) or Pi 3/4  
+- Raspberry Pi Zero W  
 - PMSA003I (I²C version)  
 - AHT20 Temperature/Humidity sensor  
 - JST or jumper wiring for I²C  
